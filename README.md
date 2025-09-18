@@ -21,6 +21,3 @@ Smart Bus Tracking System Backend built with FastAPI and MongoDB.
 - **Backend**: FastAPI, Python 3.11+
 - **Database**: MongoDB Atlas
 - **Deployment**: Render
-
-## Live API
-
